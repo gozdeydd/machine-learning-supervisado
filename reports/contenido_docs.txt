@@ -1,0 +1,3 @@
+Esta carpeta contiene reportes de interés, pequeñas conclusiones de interés.
+
+(este .txt es informativo, se debe de borrar de la carpeta)

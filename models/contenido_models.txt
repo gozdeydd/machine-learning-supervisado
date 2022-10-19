@@ -1,0 +1,4 @@
+Se almacenan los modelos que se guarden en pickle u otros formatos.
+
+
+(este .txt es informativo, se debe de borrar)

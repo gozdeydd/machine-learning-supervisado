@@ -1,0 +1,10 @@
+Se almacenan los notebooks creados para resolver la práctica.
+Los notebooks deben de ir en orden y su nombre debe de ser representativo del contenido, 
+por ejemplo:
+
+01_data_exploration.ipynb
+02_preprocessing_data.ipynb
+03_model_classification.ipynb
+
+
+(este .txt es informativo, se debe de borrar)

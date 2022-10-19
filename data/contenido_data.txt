@@ -1,0 +1,6 @@
+En esta carpeta se almacenan los datos (csv, parquet, ...) de las prácticas. 
+No se recomienda subir datos a github que sean privados ni que sean muy pesados.
+Para no subir el contenido de esta carpeta es necesario añadir .gitignore
+
+
+(este .txt es informativo, se debe de borrar de la carpeta)

@@ -1,0 +1,5 @@
+En esta carpeta se adjuntarán las imagenes empleadas en los notebooks o bien 
+imagenes que sean resultado de análisis realizados.
+
+
+(este .txt es informativo, se debe de borrar)
